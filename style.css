@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.container{
+    background-color: rgba(0, 255, 60, 0.822);
+    padding: 20px;
+    border-radius: 15px;
+}
+.Registertion{
+   font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border-bottom: 4px dashed red;
+    font-size: 20px;
+}
+.lastinput{
+    width: 140px;
+    text-align:center ;
+    background-color: rgb(204, 255, 0);
+    color: brown;
+    font-size: 15px;
+
+}
